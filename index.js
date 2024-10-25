@@ -2,7 +2,7 @@ function add(a,b){
     return a+b;
 }
 
-function divide2(a,b)
+function divide1(a,b)
 {
     return a/b;
 }
