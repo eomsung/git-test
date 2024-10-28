@@ -12,5 +12,5 @@ function subtract(a,b){
 }
 
 function multiply(a,b){
-    return a*b;//수정
+    return a*b;//수정 /// git 수정
 }
