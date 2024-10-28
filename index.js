@@ -17,4 +17,4 @@ function multiply(a,b){
 
 function square(a){
     return a * a;
-}
+}//수정
